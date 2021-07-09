@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of my character created in the Lost Ark Technical Alpha](https://i.imgur.com/dvUhHJS.jpeg)
